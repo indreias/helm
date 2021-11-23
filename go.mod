@@ -16,11 +16,11 @@ require (
 	github.com/docker/docker v20.10.11+incompatible
 	github.com/evanphx/json-patch v4.11.0+incompatible
 	github.com/gobwas/glob v0.2.3
-	github.com/gofrs/flock v0.8.0
+	github.com/gofrs/flock v0.8.1
 	github.com/gosuri/uitable v0.0.4
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/lib/pq v1.10.4
-	github.com/mattn/go-shellwords v1.0.11
+	github.com/mattn/go-shellwords v1.0.12
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
@@ -34,14 +34,14 @@ require (
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d
-	k8s.io/api v0.22.3
-	k8s.io/apiextensions-apiserver v0.22.3
-	k8s.io/apimachinery v0.22.3
-	k8s.io/apiserver v0.22.3
-	k8s.io/cli-runtime v0.22.3
-	k8s.io/client-go v0.22.3
+	k8s.io/api v0.22.4
+	k8s.io/apiextensions-apiserver v0.22.4
+	k8s.io/apimachinery v0.22.4
+	k8s.io/apiserver v0.22.4
+	k8s.io/cli-runtime v0.22.4
+	k8s.io/client-go v0.22.4
 	k8s.io/klog/v2 v2.30.0
-	k8s.io/kubectl v0.22.3
+	k8s.io/kubectl v0.22.4
 	oras.land/oras-go v1.0.0
 	sigs.k8s.io/yaml v1.3.0
 )
